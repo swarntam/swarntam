@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swarntam Saurav.
-- 🎓 MCA from IEC University | Data Science Master Certification from Simplilearn.
+- 🎓 MCA from IEC University | An Aspiring ML Engineer.
 - 👀 I’m interested in extracting skills from data.
 - 📚 I’m currently learning Deep Learning, Computer Vision and NLP.
 - 💞️ In live-in relationship with Data.
